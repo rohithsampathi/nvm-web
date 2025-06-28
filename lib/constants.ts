@@ -37,7 +37,7 @@ export const SITE = {
       bio: 'ICWA with 15 + yrs in real estate · Ex ICICI, Lanco',
       email: 'svrao@aogreenfields.com',
       linkedIn: 'https://www.linkedin.com/in/venkateswar-rao-s-a0808013/', // NEW
-      img: '/images/team/svrao.jpeg',
+      img: '/images/team/svrao.jpg',
     },
     {
       name: 'Naveen Balineni',
@@ -45,7 +45,7 @@ export const SITE = {
       bio: 'Investor & Entrepreneur · Media & Entertainment Production',
       email: 'naveenb@aogreenfields.com',
       linkedIn: 'https://linkedin.com/in/director', // NEW
-      img: '/images/team/director.jpg',
+      img: '/images/team/nven.png',
     },
   ]
   
