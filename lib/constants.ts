@@ -52,8 +52,8 @@ export const SITE = {
   export const CORE_TEAM = [
     { name: 'Ranganath S', bio: 'Project Head' , linkedIn: 'https://linkedin.com/in/one', img: '/images/team/rng.jpeg' },
     { name: 'Y Prasad', bio: 'Finance Head', linkedIn: 'https://linkedin.com/in/two', img: '/images/team/partner2.jpg' },
+    { name: 'Raj Nuthalapati', bio: 'Wealth Advisor & Promoter', linkedIn: 'https://linkedin.com/in/four', img: '/images/team/partner4.jpg' },
     { name: 'Rohith Sampathi', bio: 'Strategy Advisor', linkedIn: 'https://www.linkedin.com/in/rohith-sampathi-053ba03b/', img: '/images/team/rohith.jpg' },
-    { name: 'Vishnu Gupta', bio: 'Promoter', linkedIn: 'https://linkedin.com/in/four', img: '/images/team/partner4.jpg' },
   ]
   
   export const ADVISORS = [
