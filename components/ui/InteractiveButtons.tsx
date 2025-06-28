@@ -16,7 +16,7 @@ export default function InteractiveButtons() {
         WhatsApp
       </Link>
 
-      <Link href="/AOGF_brochure.pdf" download className="btn-secondary">
+      <Link href="/downloads/AOGF_NVM.pdf" download className="btn-secondary">
         <Download className="h-4 w-4" />
         Brochure
       </Link>

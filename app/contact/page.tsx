@@ -124,7 +124,7 @@ export default function ContactPage() {
                       </div>
                     </a>
                     <a 
-                      href="/AOGF_brochure.pdf" 
+                      href="/downloads/AOGF_NVM.pdf" 
                       download
                       className="quick-action-btn"
                     >

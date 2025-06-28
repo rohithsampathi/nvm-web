@@ -196,7 +196,7 @@ export default function NandanavanamPage() {
             <span className="text-gold"> Wellness Legacy</span>
           </h2>
           <div className="hero-cta">
-            <a href="/AOGF_brochure.pdf" download className="btn-primary-large">
+            <a href="/downloads/AOGF_NVM.pdf" download className="btn-primary-large">
               <Download className="h-5 w-5" />
               Download Brochure
             </a>

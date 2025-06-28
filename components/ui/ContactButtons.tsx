@@ -13,7 +13,7 @@ export default function ContactButtons() {
   // Handle brochure download
   const handleBrochureDownload = () => {
     // Replace with actual brochure URL
-    window.open('/downloads/nandanavanam-brochure.pdf', '_blank')
+    window.open('/downloads/AOGF_NVM.pdf', '_blank')
   }
 
   return (
